@@ -8,19 +8,19 @@
     "net9.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Angel\\.nuget\\packages\\": {}
+    "C:\\Users\\ASUS\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Angel\\Desktop\\Projects - Git\\PRS\\FormatDifference\\FormatDifference\\FormatDifference.csproj",
+      "projectUniqueName": "C:\\Users\\ASUS\\Desktop\\Projects\\PRS\\FormatDifference\\FormatDifference\\FormatDifference.csproj",
       "projectName": "FormatDifference",
-      "projectPath": "C:\\Users\\Angel\\Desktop\\Projects - Git\\PRS\\FormatDifference\\FormatDifference\\FormatDifference.csproj",
-      "packagesPath": "C:\\Users\\Angel\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Angel\\Desktop\\Projects - Git\\PRS\\FormatDifference\\FormatDifference\\obj\\",
+      "projectPath": "C:\\Users\\ASUS\\Desktop\\Projects\\PRS\\FormatDifference\\FormatDifference\\FormatDifference.csproj",
+      "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\ASUS\\Desktop\\Projects\\PRS\\FormatDifference\\FormatDifference\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Angel\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net9.0"
@@ -65,7 +65,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Users\\ASUS\\.dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

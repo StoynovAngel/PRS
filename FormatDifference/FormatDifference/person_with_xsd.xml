@@ -1,5 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<root>
+<root xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:noNamespaceSchemaLocation="root.xsd">
     <name type="string">Angel</name>
     <age type="number">22</age>
     <universityStudent type="boolean">true</universityStudent>

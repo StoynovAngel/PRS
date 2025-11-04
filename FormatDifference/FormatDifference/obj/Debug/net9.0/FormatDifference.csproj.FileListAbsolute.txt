@@ -32,3 +32,22 @@ C:\Users\Angel\Desktop\Projects - Git\PRS\FormatDifference\FormatDifference\obj\
 C:\Users\Angel\Desktop\Projects - Git\PRS\FormatDifference\FormatDifference\obj\Debug\net9.0\FormatDifference.pdb
 C:\Users\Angel\Desktop\Projects - Git\PRS\FormatDifference\FormatDifference\obj\Debug\net9.0\FormatDifference.genruntimeconfig.cache
 C:\Users\Angel\Desktop\Projects - Git\PRS\FormatDifference\FormatDifference\obj\Debug\net9.0\ref\FormatDifference.dll
+C:\Users\ASUS\Desktop\Projects\PRS\FormatDifference\FormatDifference\bin\Debug\net9.0\person.xml
+C:\Users\ASUS\Desktop\Projects\PRS\FormatDifference\FormatDifference\bin\Debug\net9.0\person.json
+C:\Users\ASUS\Desktop\Projects\PRS\FormatDifference\FormatDifference\bin\Debug\net9.0\FormatDifference.exe
+C:\Users\ASUS\Desktop\Projects\PRS\FormatDifference\FormatDifference\bin\Debug\net9.0\FormatDifference.deps.json
+C:\Users\ASUS\Desktop\Projects\PRS\FormatDifference\FormatDifference\bin\Debug\net9.0\FormatDifference.runtimeconfig.json
+C:\Users\ASUS\Desktop\Projects\PRS\FormatDifference\FormatDifference\bin\Debug\net9.0\FormatDifference.dll
+C:\Users\ASUS\Desktop\Projects\PRS\FormatDifference\FormatDifference\bin\Debug\net9.0\FormatDifference.pdb
+C:\Users\ASUS\Desktop\Projects\PRS\FormatDifference\FormatDifference\obj\Debug\net9.0\FormatDifference.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\Projects\PRS\FormatDifference\FormatDifference\obj\Debug\net9.0\FormatDifference.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\Projects\PRS\FormatDifference\FormatDifference\obj\Debug\net9.0\FormatDifference.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\Projects\PRS\FormatDifference\FormatDifference\obj\Debug\net9.0\FormatDifference.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Projects\PRS\FormatDifference\FormatDifference\obj\Debug\net9.0\FormatDifference.sourcelink.json
+C:\Users\ASUS\Desktop\Projects\PRS\FormatDifference\FormatDifference\obj\Debug\net9.0\FormatDifference.dll
+C:\Users\ASUS\Desktop\Projects\PRS\FormatDifference\FormatDifference\obj\Debug\net9.0\refint\FormatDifference.dll
+C:\Users\ASUS\Desktop\Projects\PRS\FormatDifference\FormatDifference\obj\Debug\net9.0\FormatDifference.pdb
+C:\Users\ASUS\Desktop\Projects\PRS\FormatDifference\FormatDifference\obj\Debug\net9.0\FormatDifference.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\Projects\PRS\FormatDifference\FormatDifference\obj\Debug\net9.0\ref\FormatDifference.dll
+C:\Users\ASUS\Desktop\Projects\PRS\FormatDifference\FormatDifference\bin\Debug\net9.0\person_with_xsd.xml
+C:\Users\ASUS\Desktop\Projects\PRS\FormatDifference\FormatDifference\bin\Debug\net9.0\root.xsd
