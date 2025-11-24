@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FormatDifference")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a811f5443d9e28779e3f09d998ef8c73e66f4e8a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+32ecf000cbb4f112f1c6980a8d61c4953b25822d")]
 [assembly: System.Reflection.AssemblyProductAttribute("FormatDifference")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FormatDifference")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
